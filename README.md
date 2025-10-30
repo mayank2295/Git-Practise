@@ -1,2 +1,1 @@
-# Git-Practise
-For practise
+# Git Practise 
